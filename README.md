@@ -1,4 +1,4 @@
-# custom-lang
+# Kani custom lang
 Create your own custom lang for the Discord Bot Kanishiel
 
 To create your own lang, 
@@ -11,4 +11,3 @@ To create your own lang,
 
 
 That's easy as this !
-
