@@ -19,6 +19,8 @@ That's easy as this !
 First of all, 
 You will have to copy the example into translation, rename "example" folder with the name of your translation and start creating your custom lang :
 
+
+ - role_description.js
 ![Role Example](docs/roleexample.png)
 
 The first part of the role is his name ( ⚠️ You are obliged to provide one, if you want to remove the role of the language, just fill the description with "disable")
