@@ -12,3 +12,10 @@ To create your own lang,
 
 That's easy as this !
 
+
+
+> How to modify with your translation ? 
+
+First of all, 
+You will have to copy the example into translation, rename "example" folder with the name of your translation and start creating your custom lang :
+
