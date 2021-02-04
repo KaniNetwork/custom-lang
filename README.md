@@ -32,3 +32,15 @@ First part is the role camp (here Solo), second and after are the power(s) (here
 **Disclaimer:** You can't create power, you can just change the descritpion of a power but it will leave it with the classic werewolf game power
 
 PLEASE KEEP THE TEMPLATE, DONT USE SOME FANTASY AND ALSO DONT MOOVE THE ROLE ORDER
+
+ - description_game.js
+
+Fist : channels
+![Channel Example](docs/channelexample.png)
+
+The werewolf channels are made in two part : the key, that you have to **never** change and the name, that you're free to change to everything
+
+![Win Example](docs/winexample.png)
+
+In four parts : key (never change), title, description and which camp win
+
