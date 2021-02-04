@@ -169,3 +169,4 @@ const WerewolfTemplate = {
     "Fou":`⏣ Vous êtes un solitaire. 
     ⏣ Votre unique but sera de vous faire éliminer lors d'un vote diurne. Si vous êtes tué d'une autre façon, vous ne gagnerez pas.`
 }
+
