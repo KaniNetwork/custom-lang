@@ -136,14 +136,14 @@ const WerewolfTemplate = {
 
         "Cupidon": {"name": "💘 • Le cupidon",
             "villa": "Le cupidon a **30** secondes pour choisir ses amoureux.",
-            "chann": "Vous pouvez choisir vos amoureux quant vous le souhaitez jusqu'au jour 2:\nxxx",
+            "chann": "Vous pouvez choisir vos amoureux quant vous le souhaitez jusqu'au jour 2:\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Cupidon",
             "sleep": "Le cupidon s'est endormi."
         },
 
         "Voleur": {"name": ":spy: • Le voleur",
             "villa": "Le voleur a **30** secondes pour échanger son rôle.",
-            "chann": "Vous disposez de 30 secondes pour échanger votre rôle avec un des joueurs:\nxxx",
+            "chann": "Vous disposez de 30 secondes pour échanger votre rôle avec un des joueurs:\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Voleur",
             "sleep": "Le voleur s'est endormi."
         },
@@ -164,63 +164,63 @@ const WerewolfTemplate = {
 
         "Oracle": {"name": "👴 • L'oracle",
             "villa": "L'oracle a **30** secondes pour regarder 2 cartes.",
-            "chann": "Vous avez **30** secondes pour regarder 2 cartes:\nxxx",
+            "chann": "Vous avez **30** secondes pour regarder 2 cartes:\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Oracle",
             "sleep": "l'oracle s'est endormi."
         },
 
         "Oracle_oeil": {"name": "👴 • L'oracle au 3 ème œil",
             "villa": "L'oracle a **30** secondes pour regarder 2 cartes.",
-            "chann": "Vous avez **30** secondes pour regarder 2 cartes:\nxxx",
+            "chann": "Vous avez **30** secondes pour regarder 2 cartes:\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Oracle",
             "sleep": "l'oracle s'est endormi."
         },
 
         "Voyante": {"name": "👁 • La voyante",
             "villa": "La voyante a **30** secondes pour regarder la carte d'un joueur.",
-            "chann": "Vous avez **30** secondes pour regarder la carte d'un joueur:\nxxx ",
+            "chann": "Vous avez **30** secondes pour regarder la carte d'un joueur:\nxxx ", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Voyante",
             "sleep": "La voyante s'est endormie."
         },
 
         "Voyante_bavard": {"name": "👁 • La voyante Bavard",
             "villa": "La voyante a **30** secondes pour regarder la carte d'un joueur.",
-            "chann": "Vous avez **30** secondes pour regarder la carte d'un joueur:\nxxx ",
+            "chann": "Vous avez **30** secondes pour regarder la carte d'un joueur:\nxxx ", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Voyante",
             "sleep": "La voyante s'est endormie."
         },
 
         "Renard": {"name": "🦊 • Le renard",
             "villa": "Le renard a **30** secondes pour renifler la carte d'un joueur.",
-            "chann": "Vous avez **30** secondes pour renifler la carte d'un joueur:\nxxx",
+            "chann": "Vous avez **30** secondes pour renifler la carte d'un joueur:\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Renard",
             "sleep": "Le renard s'est endormi."
         },
 
         "Montreur": {"name": "🐻 • Le montreur d'ours",
             "villa": "Le montreur d'ours a **30** secondes pour choisir deux personnes.",
-            "chann": "Vous avez **30** secondes pour choisir vos 2 personnes\nxxx",
+            "chann": "Vous avez **30** secondes pour choisir vos 2 personnes\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Montreur d'ours",
             "sleep": "Le montreur d'ours s'est endormi."
         },
 
         "Détective": {"name": "🔎 • Le détective",
             "villa": "Le détective a **30** secondes pour choisir 2 joueurs.",
-            "chann": "Vous avez **30** secondes pour choisir 2 joueurs:\nxxx",
+            "chann": "Vous avez **30** secondes pour choisir 2 joueurs:\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Détective",
             "sleep": "Le détective s'est endormi"
         },
 
         "Salvateur": {"name": "🛡 • Le salvateur",
             "villa": "Le salvateur a **30** secondes pour protéger un joueur.",
-            "chann": "Vous avez **30** secondes pour protéger un joueur d'une attaque nocturne:\nsss",
+            "chann": "Vous avez **30** secondes pour protéger un joueur d'une attaque nocturne:\nsss", //Don't edit "sss" and don't place other "sss"
             "role" : "Salvateur",
             "sleep": "Le salvateur s'est endormi."
         },
 
         "Loups": {"name": "🐺 • Les loups",
             "villa": "Les loups ont **60** secondes pour voter leur victime.",
-            "chann": "Vous avez **60** secondes pour choisir une victime:\nlll",
+            "chann": "Vous avez **60** secondes pour choisir une victime:\nlll", //Don't edit "lll" and don't place other "lll"
             "role" : "Loups",
             "sleep": "Les loups se sont endormis."
         },
@@ -241,42 +241,42 @@ const WerewolfTemplate = {
 
         "Grand_Méchant_Loup": {"name": "🐺 • Le grand méchant loup",
             "villa": "Le grand méchant loup a **30** secondes pour choisir une victime.",
-            "chann": "Vous avez **30** secondes pour choisir une victime:\nlll",
+            "chann": "Vous avez **30** secondes pour choisir une victime:\nlll", //Don't edit "lll" and don't place other "lll"
             "role" : "Grand méchant loup",
             "sleep": "Le grand méchant loup s'est endormi."
         },
 
         "Loup_Vengeurs": {"name": "🐺 • Le loup vengeurs",
             "villa": "Le loup vengeur a **30** secondes pour se venger de la mort d'un de ses loups.",
-            "chann": "Vous avez **30** secondes pour choisir une victime:\nlll",
+            "chann": "Vous avez **30** secondes pour choisir une victime:\nlll", //Don't edit "lll" and don't place other "lll"
             "role" : "Loup vengeurs",
             "sleep": "Le loup vengeurs s'est endormi."
         },
 
         "Loup_garou_blanc": {"name": "🐺 • Le loup garou blanc",
             "villa": "Le loup garou blanc a **30** secondes pour tuer un loup.",
-            "chann": "Vous avez **30** secondes pour choisir une victime\nlgb",
+            "chann": "Vous avez **30** secondes pour choisir une victime\nlgb", //Don't edit "lgb" and don't place other "lgb"
             "role" : "Loup Garou blanc",
             "sleep": "Le loup garou blanc s'est endormi."
         },
 
         "Assassin": {"name": "🗡 • L'assassin",
             "villa": "L'assassin a **30** secondes pour tuer sa victime.",
-            "chann": "Vous avez **30** secondes pour choisir une victime:\nxxx",
+            "chann": "Vous avez **30** secondes pour choisir une victime:\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Assassin",
             "sleep": "L'assassin s'est endormi"
         },
 
         "Traqueur_résurrecteur": {"name": "🧟‍♂️ • Le traqueur résurrecteur",
             "villa": "Le traqueur résurrecteur a **30** secondes pour tuer sa/ses victime(s).",
-            "chann": "Vous avez **30** secondes pour choisir une victime:\nxxx",
+            "chann": "Vous avez **30** secondes pour choisir une victime:\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Traqueur résurrecteur",
             "sleep": "Le traqueur résurrecteur s'est endormi"
         },
 
         "Joueur_de_flûte": {"name": "🎺 • Le joueur de flûte",
             "villa": "Le joueur de flûte a **30** secondes pour choisir les nouveaux flûtistes.",
-            "chann": "Vous avez **30** secondes pour choisir vos 2 nouveaux flûtistes:\nfff",
+            "chann": "Vous avez **30** secondes pour choisir vos 2 nouveaux flûtistes:\nfff", //Don't edit "fff" and don't place other "fff"
             "role" : "Joueur de Flûte",
             "sleep": "Le joueur de flûte s'est endormi."
         },
@@ -297,14 +297,14 @@ const WerewolfTemplate = {
 
         "Momie": {"name": "<:momi:619185764286070784> • La momie",
             "villa": "La momie a **30** secondes pour momifier une personne.",
-            "chann": "Vous avez **30** secondes pour momifier une personne cela l'empêchera de voter\nxxx",
+            "chann": "Vous avez **30** secondes pour momifier une personne cela l'empêchera de voter\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Momie",
             "sleep": "La momie s'est endormi."
         },
 
         "Corbeau": {"name": "<:corbeau:619191960392957971> • Le corbeau",
             "villa": "Le corbeau a **30** secondes pour choisir une personne.",
-            "chann": "Vous avez **30** secondes pour choisir une personne\nxxx",
+            "chann": "Vous avez **30** secondes pour choisir une personne\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Corbeau",
             "sleep": "Le corbeau s'est endormi."
         },
@@ -325,35 +325,35 @@ const WerewolfTemplate = {
 
         "Dompteur": {"name": "🦁 • Le dompteur",
             "villa": "",
-            "chann": "Vous avez **30** secondes pour choisir un loup mort à apprivoiser.\nddd",
+            "chann": "Vous avez **30** secondes pour choisir un loup mort à apprivoiser.\nddd", //Don't edit "ddd" and don't place other "ddd"
             "role" : "Dompteur",
             "sleep": ""
         },
 
         "Tireur": {"name": "🔫 • Le tireur d'élite",
             "villa": "",
-            "chann": "Vous avez **30** secondes pour choisir une personne à tuer.\nxxx",
+            "chann": "Vous avez **30** secondes pour choisir une personne à tuer.\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Tireur d'élite",
             "sleep": ""
         },
 
         "Loup_Chaman": {"name": "🐺 • Le loup chaman",
             "villa": "",
-            "chann": "Vous avez **30** secondes pour choisir une personne à chamaniser.\nlll",
+            "chann": "Vous avez **30** secondes pour choisir une personne à chamaniser.\nlll", //Don't edit "lll" and don't place other "lll"
             "role" : "Loup chaman",
             "sleep": ""
         },
 
         "Chasseur": {"name": "🔫 • Le chasseur",
             "villa": "le chasseur a **30** secondes pour utiliser sa dernière balle.",
-            "chann": "Vous avez **30** secondes pour choisir une victime.\nxxx",
+            "chann": "Vous avez **30** secondes pour choisir une victime.\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Chasseur",
             "sleep": "le chasseur meurt"
         },
 
         "Chasseur_aveugle": {"name": "🔫 • Le chasseur aveugle",
             "villa": "le chasseur a **30** secondes pour utiliser sa dernière balle.",
-            "chann": "Vous avez **30** secondes pour choisir une victime.\nxxx",
+            "chann": "Vous avez **30** secondes pour choisir une victime.\nxxx", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Chasseur",
             "sleep": "le chasseur meurt"
         },
@@ -381,7 +381,7 @@ const WerewolfTemplate = {
 
         "Servante_dévouée": {"name": "👩 • La servante dévouée",
             "villa": "La servante dévoué à **15** secondes pour choisir d'échanger leurs cartes.",
-            "chann": "vous avez **15** secondes pour choisir d'échanger votre carte avec xxx.",
+            "chann": "vous avez **15** secondes pour choisir d'échanger votre carte avec xxx.", //Don't edit "xxx" and don't place other "xxx"
             "role" : "Servante dévouée",
             "sleep": "La servante dévouée s'est endormie."
         }
