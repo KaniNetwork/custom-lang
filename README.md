@@ -34,6 +34,7 @@ First part is the role camp (here Solo), second and after are the power(s) (here
 PLEASE KEEP THE TEMPLATE, DONT USE SOME FANTASY AND ALSO DONT MOOVE THE ROLE ORDER
 
  - description_game.js
+ 
 *more and more complexer*
 
 Fist : channels
