@@ -45,9 +45,7 @@ const WerewolfTemplate = {
         "Loup_garou": "・Loup-garou", 
         "Loup_garou_blanc": "・Loup garou blanc"
     },
-
-    "ROLE_LG": {},
-
+    
     "WIN_LG": {
         "égalité" : {
             "title": "⚖️ • Égalité" , 
