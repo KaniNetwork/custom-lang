@@ -21,7 +21,7 @@ You will have to copy the example into translation, rename "example" folder with
 
 ![Role Example](docs/roleexample.png)
 
-The first part of the role is his name ( ⚠️ You can't provide one, if you want to remove the role of the language, just fill the description with "disable")
+The first part of the role is his name ( ⚠️ You are obliged to provide one, if you want to remove the role of the language, just fill the description with "disable")
 
 After this, we have the description. That can be split in multiple part (here 5) :
 
@@ -29,4 +29,4 @@ First part is the role camp (here Solo), second and after are the power(s) (here
 
 **Disclaimer:** You can't create power, you can just change the descritpion of a power but it will leave it with the classic werewolf game power
 
-PLEASE KEEP THE TEMPLATE, DONT USE SOME FANTASY
+PLEASE KEEP THE TEMPLATE, DONT USE SOME FANTASY AND ALSO DONT MOOVE THE ROLE ORDER
