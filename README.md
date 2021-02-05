@@ -17,7 +17,7 @@ That's easy as this !
 > How to modify with your translation ? 
 
 First of all, 
-You will have to copy the example into translation, rename "example" folder with the name of your translation and start creating your custom lang :
+You will have to copy the example into translation, rename "example" folder with the name of your translation with the patern "lang-theme" and start creating your custom lang :
 
 
  - role_description.js
