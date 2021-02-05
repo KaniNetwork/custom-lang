@@ -1,5 +1,5 @@
 # Kani custom lang
-Create your own custom lang for the Discord Bot Kanishiel
+Create your own custom lang for the Kanishiel's werewolf games
 
 To create your own lang, 
 
