@@ -390,7 +390,6 @@ const WerewolfTemplate = {
             "VOICE_WW": "Loup Garou Vocal",
             "CEMETERIE": "Cimetière",
             "GAME_WEREWOLF": "__Partie__ ► `LoupGarou`",
-            "SERVER": "Serveur",
             "SISTER": "Sœurs",
             "TWIN_BROTHER": "Jumeaux",
             "IDOLE_DIES": "Votre idole meurt, les loups en vous voyant seule décide de vous recueillire.",
