@@ -26,7 +26,7 @@ You will have to copy the example's folder into translation, rename "example" fo
 
 *For helping you, we put the role number so you can refere to the `k-lgrole <nb>` command on KaniShiel if you change the name and don't remember the original role.*
 
-The first part of the role is his name (If you want to remove the role of the language, just fill the name with "disable" and let the description blank)
+The first part of the role is his name ( ⚠️ You are obliged to provide one, if you want to remove the role of the language, just fill the description with "disable")
 
 After this, we have the description. That can be split in multiple part (here 5) :
 
