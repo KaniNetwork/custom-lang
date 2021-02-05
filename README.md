@@ -18,7 +18,7 @@ If you want you can also ask someone to create your own idea, just open an issue
 > How to modify with your translation ? 
 
 First of all, 
-You will have to copy the example into translation, rename "example" folder with the name of your translation with the patern "lang-theme" and start creating your custom lang :
+You will have to copy the example into translation, rename "example" folder with the name of your translation with the patern "lang-theme" (in full lowercase) and start creating your custom lang :
 
 
  - role_description.js
