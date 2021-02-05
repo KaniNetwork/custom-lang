@@ -42,7 +42,12 @@ Fist : channels
 
 The werewolf channels are made in two part : the key, that you have to **never** change and the name, that you're free to change to everything
 
+Second : Win
 ![Win Example](docs/winexample.png)
 
 In four parts : key (never change), title, description and which camp win
 
+Third : Game
+![Game Example](docs/gameexample.png)
+
+In six parts : key, top of message, description in the village channel, description in his private channel, role name, message when ha go asleep
