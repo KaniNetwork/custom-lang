@@ -15,7 +15,7 @@ That's easy as this !
 If you want you can also ask someone to create your own idea, just open an issue but consider that there's no obligation for someone to create your language.
 
 
-> How to modify with your translation ? 
+# How to modify with your translation ? 
 
 First of all, 
 You will have to copy the example's folder into translation, rename "example" folder with the name of your translation with the patern "[lang]-[theme]" (in full lowercase) and start creating your custom lang :
