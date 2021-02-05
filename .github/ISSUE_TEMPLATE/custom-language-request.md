@@ -2,7 +2,7 @@
 name: Custom language request
 about: Suggest a custom lang for Werewolf Game on KaniShiel
 title: "[NEW LANG] "
-labels: ''
+labels: waiting for review
 assignees: ''
 
 ---
