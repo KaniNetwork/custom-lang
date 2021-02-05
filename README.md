@@ -54,3 +54,10 @@ Third : Game
 ![Game Example](docs/gameexample.png)
 
 In six parts : key, top of message, description in the village channel, description in his private channel, role name, message when ha go asleep
+
+Fourth : Random Text and Event
+![Event Example](docs/eventexample.png)
+
+In two parts : key and texts
+
+The key are very obvious but if you have a doubt come ask us on [discord](http://discord.kanishiel.com)
