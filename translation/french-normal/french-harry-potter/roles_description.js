@@ -1,4 +1,4 @@
-const french-harry-potter = {
+french-harry-potter = {
         "Mangemorts": "⏣ Vous appartenez à l'équipe des Mangemorts. \n ⏣ Chaque nuit, vous pouvez tuer une personne avec les autres Mangemorts.",
         "A": "disable",
         "B": "disable",
