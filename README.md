@@ -1,5 +1,5 @@
 # Kani custom lang
-Create your own custom lang for the Kanishiel's werewolf games
+Create your own custom lang for the Kanishiel's werewolf game
 
 To create your own lang, 
 
