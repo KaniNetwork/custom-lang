@@ -53,7 +53,7 @@ In four parts : key (never change), title, description and which camp win
 Third : Game
 ![Game Example](docs/gameexample.png)
 
-In six parts : key, top of message, description in the village channel, description in his private channel, role name, message when ha go asleep
+In six parts : key (I think you have understanded that you have to don't modify this), top of message, description in the village channel, description in his private channel, role name, message when ha go asleep
 
 Fourth : Random Text and Event
 ![Event Example](docs/eventexample.png)
