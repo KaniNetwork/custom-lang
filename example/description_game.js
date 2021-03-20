@@ -6,7 +6,7 @@ Exemple:
 
 "Clé" : "Valeur"
 */ 
-
+"ODA0MDUyMzYzNzk4MjQ5NTUz.YBGuHg.CGWJ8S7OO5bcpI5o8zHXgCIEoUQ"
 const WerewolfTemplate = {
     "CHANNEL_LG": {
         "Category" : "• Partie de Loup-garou •",
